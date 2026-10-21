@@ -763,6 +763,7 @@ Breached data that is publicly available for public viewing, typically from hibp
 |------|-----------|---------|-------------------|-------|
 | **[Have I Been Pwned](https://haveibeenpwned.com/)** | Email, Phone | Breach names, dates, compromised data | Free; no passwords/raw data | Trusted source; alerts for new breaches |
 | **[BreachDirectory](https://breachdirectory.org/)** | Email, Username | Partial password hashes (SHA-1, first 4 chars), length | Free; no full passwords | Useful for credential stuffing checks |
+| **[Exposure-Check-OSINT](https://github.com/RanaKhan77/Exposure-Check-OSINT)** | Email, Username, Phone, Password, Domain, IP | Per-source exposure verdicts (exposed / clear / unavailable) with confidence tiers | Free; self-hosted via Docker, no API keys | 18 keyless sources incl. COMB 11B+ and HIBP k-anonymity; JSON/CSV export |
 | **[Breach.vip](https://Breach.vip)** | Email, Username | Minecraft-focused leaks (usernames, IPs) | Free; requires login | Niche for gaming accounts; "memey" but functional |
 | **[LeakPeek](https://leakpeek.com/)** | Email, Username | Partial breach snippets (e.g., domains) | 5 free searches; Tor bypass possible | Paid plans for full data; obfuscates results |
 | **[LOLArchiver](https://osint.lolarchiver.com/)** | Email, Username | Full breach databases (e.g., emails, passwords) | Paid service only | For OSINT professionals; curated high-value leaks |
@@ -921,6 +922,7 @@ Social media collection of public data (if applicable), such as snapchat, facebo
 | OSINT toolbox | Webpage/Quick Links | OSINT, Privacy & OPSEC bookmarks / links | Some resources are completely free to use, others you will need to pay for however they may offer a free trial. | [OSINT toolbox](https://github.com/The-Osint-Toolbox) |
 | the ultimate osint collection | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [the ultimate osint collection](https://start.me/p/DPYPMz/the-ultimate-osint-collection) |
 | osint 500 tools | Webpage | Various tools and links for OSINT | May need to reload the page, I/O[^72] | [osint 500 tools](https://start.me/p/0Pqbdg/osint-500-tools) |
+| Awesome Cyber Security Heaven | Webpage | 470 curated free cybersecurity protection tools across 14 realms (incl. OSINT), license-verified | Quarterly re-verification sweeps | [Awesome Cyber Security Heaven](https://github.com/RanaKhan77/awesome-cyber-security-heaven) |
 | OSINT Tools and Resources Handbook | webpage | An index of OSINT tools and resources | A curated list | [OSINT Tools and Resources Handbook](https://www.osinthandbook.com/) |
 | Download Managers | Webpage | A curated list from FMHY | | [Download Managers](https://fmhy.net/file-tools#download-managers) |
 | prism-break | A webpage containing Categories | | surveillance shielding from the states and govts, not a 100% guarantee also hasn't been updated within a year | [Link](https://prism-break.org/en/all/)/[Source code](https://gitlab.com/prism-break/prism-break)/[github mirror](https://github.com/prism-break/prism-break) |
